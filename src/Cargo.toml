@@ -1,8 +1,6 @@
 [workspace]
 members = [
     "flock",
-    "flock_abi",
-    "core_wasm",
-    "mdk"
+    "flock_abi"
 ]
 resolver = "2"
