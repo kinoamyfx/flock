@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "flock",
+    "flock_abi",
+    "core_wasm",
+    "mdk"
+]
+resolver = "2"
